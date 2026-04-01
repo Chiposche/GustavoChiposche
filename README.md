@@ -28,15 +28,14 @@ Sou apaixonado por criar experiências digitais que unem **estética de alto ní
 ---
 
 ### No que estou trabalhando agora:
-- 🖋️ Desenvolvendo o **Lumina**, um diário inteligente com arquitetura offline-first.
-- 🍷 Criando um catálogo digital especializado para coleções de vinhos e whiskys.
-- 🚀 Buscando oportunidades de freelance internacionais em Web Design e Dev.
+- Desenvolvendo o **Lumina**, um diário inteligente com arquitetura offline-first.
+- Criando um catálogo digital especializado para coleções de vinhos e whiskys.
+- Buscando oportunidades de freelance internacionais em Web Design e Dev.
 
 ---
 
 ### Vamos conversar?
-* **LinkedIn:** [Coloque Seu Link Aqui]
-* **Behance:** [Coloque Seu Link Aqui]
-* **Workana:** [Link do seu Perfil]
+* **LinkedIn:** www.linkedin.com/in/gustavo-chiposche
+* **Behance:** https://www.behance.net/gustavochipo
 
 *"Transformando ideias complexas em produtos funcionais, um pixel (e uma linha de código) por vez."*
