@@ -1,14 +1,21 @@
-<h1 align="center">Gustavo Chiposche Pedro</h1>
-
 <p align="center">
-  <strong>Full-stack Developer &amp; AI Engineer</strong><br>
-  Entrego sites e aplicações web do Figma ao deploy — com IA quando o produto pede.
+  <img src="assets/banner.svg" alt="Gustavo Chiposche Pedro — Full-stack Developer & AI Engineer" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Disponível_para-projetos_&_full--time-2ea043?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Mercados-Brasil_·_Portugal_·_Espanha-333?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Idiomas-PT_·_ES_·_EN-555?style=for-the-badge">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=720&lines=Entrego+sites+e+aplica%C3%A7%C3%B5es+web+do+Figma+ao+deploy;Full-stack%3A+React+%C2%B7+Next.js+%C2%B7+Astro+%C2%B7+FastAPI;IA+quando+o+produto+pede%3A+agentes+%C2%B7+RAG+%C2%B7+evals;Dispon%C3%ADvel+para+Brasil+%C2%B7+Portugal+%C2%B7+Espanha" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DISPON%C3%8DVEL_PARA-projetos_&_full--time-00d2ff?style=for-the-badge&labelColor=050505">
+  <img src="https://img.shields.io/badge/MERCADOS-Brasil_·_Portugal_·_Espanha-00ffff?style=for-the-badge&labelColor=050505">
+  <img src="https://img.shields.io/badge/IDIOMAS-PT_·_ES_·_EN-8b5cf6?style=for-the-badge&labelColor=050505">
+</p>
+
+<p align="center">
+  <a href="https://gustavochiposchepedro.gcpdev.workers.dev"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-050505?style=for-the-badge&logo=astro&logoColor=00d2ff"></a>
+  <a href="https://www.linkedin.com/in/gustavo-chiposche"><img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=00d2ff"></a>
+  <a href="mailto:gchiposche@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-050505?style=for-the-badge&logo=gmail&logoColor=00d2ff"></a>
 </p>
 
 ---
@@ -104,6 +111,7 @@ CLT/PJ ou contrato por projeto.
 | **Tarsier** | Plataforma de monitoramento de sites (uptime, SSL, analytics via snippet, alertas), estilo PostHog | Cloudflare Workers + Cron · Next.js · Drizzle · Neon | em desenvolvimento |
 | **Agência de IA** | Plataforma de orquestração multi-agente com RAG e sistema de evals | FastAPI · litellm · Gemini · Redis · Postgres · Docker | em desenvolvimento |
 | **Atalaia** | Geração de leads com auditoria automática de site e outreach personalizado | Next.js 15 · Drizzle · Neon · fila de jobs | em desenvolvimento |
+
 ---
 
 ### 📊 GitHub
