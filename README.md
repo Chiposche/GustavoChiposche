@@ -100,13 +100,10 @@ CLT/PJ ou contrato por projeto.
 |---|---|---|---|
 | **Alide Psicologia** | Site de conversão para psicóloga: jornada estruturada até o agendamento | HTML · CSS · Cloudflare Pages | [ao vivo](https://alidepsicologia.pages.dev/) |
 | **Portfólio** | Astro SSR com painel admin (auth próprio) para projetos, depoimentos e certificados | Astro · Cloudflare Workers · Neon Postgres | [ao vivo](https://gustavochiposchepedro.gcpdev.workers.dev) |
-| **Cachaçaria do Estevão** | Catálogo 
-digital para adega / coleção de destilados | HTML · CSS · JS | [ao vivo]adega-do-estevao.pages.dev |
+| **Cachaçaria do Estevão** | Catálogo digital para adega / coleção de destilados | HTML · CSS · JS | [ao vivo](https://adega-do-estevao.pages.dev) |
 | **Tarsier** | Plataforma de monitoramento de sites (uptime, SSL, analytics via snippet, alertas), estilo PostHog | Cloudflare Workers + Cron · Next.js · Drizzle · Neon | em desenvolvimento |
 | **Agência de IA** | Plataforma de orquestração multi-agente com RAG e sistema de evals | FastAPI · litellm · Gemini · Redis · Postgres · Docker | em desenvolvimento |
-| **Procura** | Geração de leads com auditoria automática de site e outreach personalizado | Next.js 15 · Drizzle · Neon · fila de jobs | em desenvolvimento |
-| **agentic-rag** | Assistente com RAG e agente LangGraph (planner/executor/judge/synthesizer) | LangGraph · ChromaDB · Ollama · Streamlit | em desenvolvimento |
-
+| **Atalaia** | Geração de leads com auditoria automática de site e outreach personalizado | Next.js 15 · Drizzle · Neon · fila de jobs | em desenvolvimento |
 ---
 
 ### 📊 GitHub
